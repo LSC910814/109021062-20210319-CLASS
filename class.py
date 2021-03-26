@@ -2,7 +2,7 @@ import requests as reqs
 from bs4 import BeautifulSoup
 
 req=reqs.get(
-    "https://research.asia.edu.tw/TchEportfolio/index_1/cdma2000")
+    "http://120.108.116.237/~jackjow/pubList.php")
 req.encoding="utf8"
 if req.status_code == 200:
     #print(req.text)
