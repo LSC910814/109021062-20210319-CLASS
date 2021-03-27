@@ -1,0 +1,23 @@
+Books
+Publish
+About
+News
+Contact
+Author Panel Sign in
+biomarker
+comparative genomics
+class frequency distribution
+maximal repeat
+MapReduce programming
+Jing-Doo Wang*Department of Computer Science and Information Engineering, Asia University, TaiwanDepartment of Medical Research, China Medical University Hospital, China Medical University, Taiwan
+Department of Computer Science and Information Engineering, Asia University, Taiwan
+Department of Medical Research, China Medical University Hospital, China Medical University, Taiwan
+1.Introduction
+2.Potential applications with class frequency distribution of maximal repeats extracted from tagged sequential data
+3.Methods
+4.Case study: mining for the co-occurrences of DNA maximal repeat patterns in both human and viruses
+5.Conclusions and future works
+Acknowledgments
+Terms and Conditions
+Privacy Policy
+Customer Complaints
